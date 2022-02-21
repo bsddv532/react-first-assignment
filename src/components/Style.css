@@ -1,0 +1,46 @@
+#heading{
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 3px 5px cyan;
+}
+
+.button{
+    width: 350px;
+    border-radius: 30px;
+    border: 3px solid black;
+    padding: 20px;
+    font-size: 16px;
+    margin: 50px 50px;
+    margin-top: 30px;
+    background-color: rgb(68, 184, 184);
+}
+
+.button:hover{
+    background-color: cyan;
+}
+
+.output1{
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 550px;
+    height: 260px;
+    padding: 20px;
+    background-color: cyan;
+    text-align: center;
+    margin-top: 5%;
+    position: absolute;
+    left: 3%;
+}
+
+.output2{
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 550px;
+    height: 260px;
+    padding: 20px;
+    background-color:  violet;
+    text-align: center;
+    margin-top: 5%;
+    position: absolute;
+    right: 3%;
+}
